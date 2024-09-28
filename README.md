@@ -1,2 +1,2 @@
 # Reduced-order-modeling-of-thermal-convection-flows-a-reservoir-computing-approach
-My PhD-Thesis titled "Reduced order modeling of thermal convection flows: a reservoir computing approach". 
+My PhD-Thesis titled "Reduced order modeling of thermal convection flows: a reservoir computing approach" is published at (TU Ilmenau)[www.doi.org/10.22032/dbt.59964]. It revolves around the application of machine learning models on direct numerical simulations of thermal convection flows. Their potential for sub-grid scale turbulence parameterization is evaluated.
