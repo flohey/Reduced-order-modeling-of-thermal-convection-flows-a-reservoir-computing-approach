@@ -1,7 +1,7 @@
 # Reduced-order-modeling-of-thermal-convection-flows-a-reservoir-computing-approach
 
 ### Get the thesis
-My PhD-Thesis titled "Reduced order modeling of thermal convection flows: a reservoir computing approach" is published at [TU Ilmenau](doi.org/10.22032/dbt.59964). It is open access. Free of charge. The corresponding technical appendix (numerical implementations, source files & code) can be found at [Zenodo](https://zenodo.org/records/8307591).
+My PhD-Thesis titled "Reduced order modeling of thermal convection flows: a reservoir computing approach" is published at [TU Ilmenau](https://www.db-thueringen.de/receive/dbt_mods_00059964). It is open access. Free of charge. The corresponding technical appendix (numerical implementations, source files & code) can be found at [Zenodo](https://zenodo.org/records/8307591).
 
 ### Content
 The thesis revolves around the application of machine learning models on direct numerical simulations of thermal convection flows. Their potential for sub-grid scale turbulence parameterization is evaluated.
